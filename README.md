@@ -1,6 +1,9 @@
 # Web Scraping
 ### ติดตั้งเพื่อใช้งาน
 
+วิธีเปิดโปรแกรม
+* dist > main.exe
+
 ```
 pip install requests
 ```
