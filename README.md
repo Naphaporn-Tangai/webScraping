@@ -13,4 +13,4 @@ pip install tk
 pip install beautifulsoup4
 ```
 
-[วิดีโอนำเสนอ](https://www.youtube.com/watch?v=wcEBPaWmllM)
+[วิดีโอนำเสนอ Assignment Theory of Computation](https://www.youtube.com/watch?v=wcEBPaWmllM)
