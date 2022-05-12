@@ -13,4 +13,4 @@ pip install tk
 pip install beautifulsoup4
 ```
 
-[YouTube](https://www.youtube.com/watch?v=wcEBPaWmllM)
+[วิดีโอนำเสนอ](https://www.youtube.com/watch?v=wcEBPaWmllM)
